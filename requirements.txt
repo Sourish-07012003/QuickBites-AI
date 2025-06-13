@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.0
+nltk==3.8.1
+scikit-learn==1.4.0
+numpy==1.26.4
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
+geocoder==1.38.1
+uuid==1.30
+python-dotenv==1.0.1 

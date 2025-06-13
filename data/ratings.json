@@ -1,0 +1,72 @@
+[
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Bhel Puri",
+        "restaurant_name": "Chai & Chaat Corner",
+        "rating": 3,
+        "timestamp": "2025-05-14 01:09:59"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Samosa (2 pcs)",
+        "restaurant_name": "Chai & Chaat Corner",
+        "rating": 3,
+        "timestamp": "2025-05-14 01:10:03"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Masala Chai",
+        "restaurant_name": "Chai & Chaat Corner",
+        "rating": 4,
+        "timestamp": "2025-05-14 01:10:06"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Tamarind Chutney",
+        "restaurant_name": "Chai & Chaat Corner",
+        "rating": 5,
+        "timestamp": "2025-05-14 01:10:10"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Vegetable Cutlet (2 pcs)",
+        "restaurant_name": "Snack Attack",
+        "rating": 2,
+        "timestamp": "2025-05-14 01:10:13"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Paneer Butter Masala",
+        "restaurant_name": "The Royal Platter",
+        "rating": 2,
+        "timestamp": "2025-05-14 01:10:20"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Mixed Vegetable Curry",
+        "restaurant_name": "The Royal Platter",
+        "rating": 1,
+        "timestamp": "2025-05-14 01:10:24"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Butter Naan",
+        "restaurant_name": "The Royal Platter",
+        "rating": 4,
+        "timestamp": "2025-05-14 01:10:27"
+    },
+    {
+        "user_id": "d88b0c87",
+        "item_name": "Jeera Rice",
+        "restaurant_name": "The Royal Platter",
+        "rating": 4,
+        "timestamp": "2025-05-14 01:10:30"
+    },
+    {
+        "user_id": "f68c030d",
+        "item_name": "Jaljeera",
+        "restaurant_name": "Refreshments Hub",
+        "rating": 3,
+        "timestamp": "2025-06-03 08:51:57"
+    }
+]
